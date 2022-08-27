@@ -2,6 +2,7 @@ HEADER
 
 	Дорбо поожаловать на главную страниуу!
         Мы группа разработки D/O
+        Wellcome to our groupe
        
 CONTENT
 
