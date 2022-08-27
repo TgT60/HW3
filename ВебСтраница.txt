@@ -1,6 +1,6 @@
 HEADER
 
-	Дорбо пожаловать на главную страниуу проекта HW3!
+	Дорбо пожаловать на главную страницу проекта HW3!
 	Have a great journey through our website!
         Wellcome to our groupe
        
