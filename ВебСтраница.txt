@@ -6,4 +6,5 @@ HEADER
        
 CONTENT
 
-	Наш проект является передоой техологией в сфере робототехники!
+	Наш проект является передоой техологией в сфере робототехники! 
+	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"> Our Privacy Policy </a>
