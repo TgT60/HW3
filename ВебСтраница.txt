@@ -6,7 +6,7 @@ HEADER
        
 CONTENT
 
-	Наш проект является передовой техологией в сфере робототехники! 
+	Наш проект является передовой технологией в сфере робототехники! 
         We push commit 
         Good tech feature with PC
         God no life 
