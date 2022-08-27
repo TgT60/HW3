@@ -1,6 +1,7 @@
 HEADER
 
 	Дорбо поожаловать на главную страниуу проекта HW3!
+	Have a great journey through our website!
 
 CONTENT
 
