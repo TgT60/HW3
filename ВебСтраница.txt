@@ -8,3 +8,4 @@ CONTENT
 
 	Наш проект является передоой техологией в сфере робототехники!
         We push commit 
+        Good tech feature with PC
